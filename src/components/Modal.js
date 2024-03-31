@@ -1,5 +1,4 @@
 import React from 'react'
-
 import elBackspacIcon from "../assets/Images/backspace-reverse.svg"
 
 function Modal({children,showModal,setShowModal}) {

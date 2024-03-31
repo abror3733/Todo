@@ -1,8 +1,5 @@
 
-
 function TodoForm({setTodo,todo}) {
-  
-
   const handleSubmit = (evt) => {
     evt.preventDefault();
     const data = {
